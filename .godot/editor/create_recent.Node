@@ -1,4 +1,11 @@
+AnimationTree
+AnimationPlayer
+Node
+Label
+CanvasLayer
+Sprite2D
 CollisionShape2D
+Area2D
+HTTPRequest
 Node2D
 CharacterBody2D
-Sprite2D
