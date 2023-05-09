@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="AmerikeGodot01"
+run/main_scene="res://Scenes/my_scene_2d.tscn"
 config/features=PackedStringArray("4.0", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
