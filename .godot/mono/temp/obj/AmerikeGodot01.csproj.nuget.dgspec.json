@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MisArchivos\\GodotProjects\\AmerikeGodot01\\AmerikeGodot01.csproj": {}
+    "E:\\MISARCHIVOS\\GODOTPROJECTS\\AMERIKEGODOT01\\AmerikeGodot01.csproj": {}
   },
   "projects": {
-    "E:\\MisArchivos\\GodotProjects\\AmerikeGodot01\\AmerikeGodot01.csproj": {
+    "E:\\MISARCHIVOS\\GODOTPROJECTS\\AMERIKEGODOT01\\AmerikeGodot01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MisArchivos\\GodotProjects\\AmerikeGodot01\\AmerikeGodot01.csproj",
+        "projectUniqueName": "E:\\MISARCHIVOS\\GODOTPROJECTS\\AMERIKEGODOT01\\AmerikeGodot01.csproj",
         "projectName": "AmerikeGodot01",
-        "projectPath": "E:\\MisArchivos\\GodotProjects\\AmerikeGodot01\\AmerikeGodot01.csproj",
+        "projectPath": "E:\\MISARCHIVOS\\GODOTPROJECTS\\AMERIKEGODOT01\\AmerikeGodot01.csproj",
         "packagesPath": "C:\\Users\\Alam\\.nuget\\packages\\",
-        "outputPath": "E:\\MisArchivos\\GodotProjects\\AmerikeGodot01\\.godot\\mono\\temp\\obj\\",
+        "outputPath": "E:\\MISARCHIVOS\\GODOTPROJECTS\\AMERIKEGODOT01\\.godot\\mono\\temp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\Alam\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eQVfllKVuuiZwhUf6W2qJq4Iz+ade5jbPPHtK0CVUwWQkZXyDYKb1tUkZ34MkEKGeazHVsg/QCfFqcmPhk3KVQ==",
+  "dgSpecHash": "Wkoffx38hH3jqi2zR0x6sa0U4FCJt2YkxxJ/cU3hb9CScKEv0BYc9Ic/ZoPL9ruXKJ7w9N4r6FDfP4HLP7ibaw==",
   "success": true,
-  "projectFilePath": "E:\\MisArchivos\\GodotProjects\\AmerikeGodot01\\AmerikeGodot01.csproj",
+  "projectFilePath": "E:\\MISARCHIVOS\\GODOTPROJECTS\\AMERIKEGODOT01\\AmerikeGodot01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alam\\.nuget\\packages\\godot.sourcegenerators\\4.0.2\\godot.sourcegenerators.4.0.2.nupkg.sha512",
     "C:\\Users\\Alam\\.nuget\\packages\\godotsharp\\4.0.2\\godotsharp.4.0.2.nupkg.sha512",

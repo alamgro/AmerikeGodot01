@@ -5,6 +5,8 @@ public partial class Coin : Area2D, ICoin
 {
     [Export]
     public int Value { get; set; }
+    [Export]
+    private AudioStreamPlayer2D _audioStreamPlayer;
 
     public override void _Ready()
     {
@@ -16,7 +18,9 @@ public partial class Coin : Area2D, ICoin
     {
         if (!node.Name.Equals("Player")) return;
 
-        QueueFree();
+        _audioStreamPlayer.Play();
         GameManager.Instance.GameScore.AddPoints(Value);
+        QueueFree();
     }
+
 }

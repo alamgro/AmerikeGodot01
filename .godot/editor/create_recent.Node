@@ -1,3 +1,9 @@
+CollisionShape2D
+Area2D
+AudioStreamPlayer2D
+Sprite2D
+Node2D
+AudioStreamPlayer
 Camera2D
 TileMap
 AnimationTree
@@ -5,9 +11,5 @@ AnimationPlayer
 Node
 Label
 CanvasLayer
-Sprite2D
-CollisionShape2D
-Area2D
 HTTPRequest
-Node2D
 CharacterBody2D
