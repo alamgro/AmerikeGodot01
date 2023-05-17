@@ -59,7 +59,7 @@ public partial class Movement : CharacterBody2D, IMovement
         TranslateHorizontally((float)delta);
         if (Input.IsActionPressed("Jump") && IsOnFloor())
 		{
-            _velocity.Y = JumpForce;
+			Jump();
             _isIdling = false;
 			_isRunning = false;
             _isJumping = true;
@@ -73,6 +73,6 @@ public partial class Movement : CharacterBody2D, IMovement
 
 	public void Jump()
 	{
-
-	}
+        _velocity.Y = JumpForce;
+    }
 }
